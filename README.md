@@ -72,15 +72,17 @@ https://microsoft.github.io/r-server-hospital-length-of-stay/input_data.html
   2. Fit the model on training set.
   3. Predict the outcome of model using test set.
   4. Find error values using different metrics.
+     
+## 6. Model Pipeline:-
+      Data Loading -> Data Preprocessing -> Split Data -> Model Selection -> Model Training -> Model Evaluation -> Model Prediction
 
-
-## 6. Contributions/Novelty:-
+## 7. Contributions/Novelty:-
 
 This predictor model will not only help hospital personnel but also the insurance providers who can get an estimate of how long a patient will be living in the hospital based on his/her medical conditions this will help them settle the claim amount accordingly and there will be less chances of fradulent cases as previously patients used to show higher no. of days just to claim a higher amount from the insurance providers.
 
 Hospitals will be benefitted by this model in a way that they can easily manage and allocate resources for each patient if they get a rough estimate of patient's stay.
 
-## 7. Citations:-
+## 8. Citations:-
 
 
 *   For Dataset: https://microsoft.github.io/r-server-hospital-length-of-stay/
