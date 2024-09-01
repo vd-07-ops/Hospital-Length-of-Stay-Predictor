@@ -1,4 +1,7 @@
 # Hospital-Length-of-Stay-Predictor
+This project has been made using 4 different types of regression models (Linear Regression, Random Forest Regressor, Decision Tree Regressor, Gradient Boosting Regressor).
+This project will be helpful to hospital to allocate the resources according to patients' conditions and giving them an estimate of how much each patient will be using up hospital's resources.
+
 # Project Documentation
 ## 1. Data Preparation & Processing :-
 ### Loading Data :
