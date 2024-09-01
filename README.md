@@ -1,6 +1,15 @@
-# Hospital-Length-of-Stay-Predictor
+# Hospital-Length-of-Stay-Predictor (Fundamentals of Machine Learning Assignment 1)
 This project has been made using 4 different types of regression models (Linear Regression, Random Forest Regressor, Decision Tree Regressor, Gradient Boosting Regressor).
 This project will be helpful to hospital to allocate the resources according to patients' conditions and giving them an estimate of how much each patient will be using up hospital's resources.
+
+## Team Name: The Predictive Squad
+
+## Team Members:
+
+1. Kashish Patel - 202418044
+2. Vedant Dave - 202418014
+3. Sujal Dhrangdhariya - 202418017
+4. Jatin Sindhi - 202418055
 
 # Project Documentation
 ## 1. Data Preparation & Processing :-
