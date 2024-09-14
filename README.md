@@ -38,7 +38,7 @@ https://microsoft.github.io/r-server-hospital-length-of-stay/input_data.html
 2. Merging train and validation set together for further model training
 
 ## 5. Model Training :-
-1. Linear Regression Model:
+### 1. Linear Regression Model:
 
   **Psuedocode**:
   1. Fit the model on train set.
@@ -46,7 +46,7 @@ https://microsoft.github.io/r-server-hospital-length-of-stay/input_data.html
   3. Find errors using difference of predicted set and test set.
   
 
-2. Random Forest Regressor
+### 2. Random Forest Regressor
 
   **Psuedocode**:
 
@@ -55,7 +55,7 @@ https://microsoft.github.io/r-server-hospital-length-of-stay/input_data.html
   3. Predict the output of model using test set.
   4. Find error values using different metrics.
 
-3. Decision Tree Regressor
+### 3. Decision Tree Regressor
 
   **Psuedocode**:
   
@@ -65,7 +65,7 @@ https://microsoft.github.io/r-server-hospital-length-of-stay/input_data.html
   4. Find error values using different metrics.
 
 
-4. Gradient Boosting Regressor
+### 4. Gradient Boosting Regressor
 
   **Psuedocode**:
   1. Instantiate the model class and initialize the hyperparameters (eg. n_estimators=100, learning_rate=0.8, max_depth=3).
