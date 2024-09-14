@@ -38,40 +38,40 @@ https://microsoft.github.io/r-server-hospital-length-of-stay/input_data.html
 2. Merging train and validation set together for further model training
 
 ## 5. Model Training :-
-### 1. Linear Regression Model:
-
-  **Psuedocode**:
-  1. Fit the model on train set.
-  2. Model will predict the value using test set.
-  3. Find errors using difference of predicted set and test set.
+  ### 1. Linear Regression Model:
   
-
-### 2. Random Forest Regressor
-
-  **Psuedocode**:
-
-  1. Initialize model's hyperparameters (eg. n_estimators=100)
-  2. Fit the model on training set.
-  3. Predict the output of model using test set.
-  4. Find error values using different metrics.
-
-### 3. Decision Tree Regressor
-
-  **Psuedocode**:
+    **Psuedocode**:
+    1. Fit the model on train set.
+    2. Model will predict the value using test set.
+    3. Find errors using difference of predicted set and test set.
+    
   
-  1. Instantiate the model class.
-  2. Fit the model on training set.
-  3. Predict the outcome of model using test set.
-  4. Find error values using different metrics.
-
-
-### 4. Gradient Boosting Regressor
-
-  **Psuedocode**:
-  1. Instantiate the model class and initialize the hyperparameters (eg. n_estimators=100, learning_rate=0.8, max_depth=3).
-  2. Fit the model on training set.
-  3. Predict the outcome of model using test set.
-  4. Find error values using different metrics.
+  ### 2. Random Forest Regressor
+  
+    **Psuedocode**:
+  
+    1. Initialize model's hyperparameters (eg. n_estimators=100)
+    2. Fit the model on training set.
+    3. Predict the output of model using test set.
+    4. Find error values using different metrics.
+  
+  ### 3. Decision Tree Regressor
+  
+    **Psuedocode**:
+    
+    1. Instantiate the model class.
+    2. Fit the model on training set.
+    3. Predict the outcome of model using test set.
+    4. Find error values using different metrics.
+  
+  
+  ### 4. Gradient Boosting Regressor
+  
+    **Psuedocode**:
+    1. Instantiate the model class and initialize the hyperparameters (eg. n_estimators=100, learning_rate=0.8, max_depth=3).
+    2. Fit the model on training set.
+    3. Predict the outcome of model using test set.
+    4. Find error values using different metrics.
      
 ## 6. Model Pipeline:-
       Data Loading -> Data Preprocessing -> Split Data -> Model Selection -> Model Training -> Model Evaluation -> Model Prediction
