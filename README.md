@@ -87,6 +87,10 @@ Hospitals will be benefitted by this model in a way that they can easily manage 
 
 *   For Dataset: https://microsoft.github.io/r-server-hospital-length-of-stay/
 
+*   For Lasso Regression: https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html
+
+*   For Mutual Information: https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.mutual_info_regression.html
+
 *   For Regression Model: https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
 
 * For Random Forest Regressor: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
